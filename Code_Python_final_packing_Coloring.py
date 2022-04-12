@@ -35,7 +35,7 @@ def modelClassicAS(*grapheTuple):
     #Définition de la fonction objective
     model.obj = pe.Objective( sense=pe.minimize, expr = sum(model.w[i] for i in model.H))
     
-    #Définition des contrainte
+    #Définition des contraintes
     model.con1 = pe.ConstraintList()
     for v in model.nodes:
         gauche = sum(model.x[i,v] for i in model.H)
