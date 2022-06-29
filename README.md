@@ -6,7 +6,7 @@ EXECUTION DES PROGRAMMES
 
 Pour exécuter les différents programmes du mémoire de recherche on a 2 possibilités :
 
-1) Soit on exécute le programme global (Code_Python_final_packing_Coloring) qui reprend tous les modèles ILP implémentés sous forme de méthodes en python et appelés dans un programmme principal de type MAIN, alors quelle est la procédure : 
+1) Soit on exécute le programme global (Code_Python_final_packing_Coloring) qui reprend tous les modèles ILP implémentés sous forme de méthodes en python et appelés dans un programmme principal de type MAIN ; alors quelle est la procédure : 
 
         * Pour cela, il faudra installer l'environnement de développement en python qui est l'IDE Jupyter Notebook ;
          
