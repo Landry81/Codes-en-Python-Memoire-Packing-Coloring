@@ -23,7 +23,7 @@ Pour exécuter les différents programmes du mémoire de recherche on a 2 possib
             
         * Pour cela, nous allons utiliser un autre environnement de développement et d'exécution qui est "Anaconda Powershell Prompt (anaconda3)" ;
            
-        * Comme exemple, on va exécuter quelques lignes de commandes et voilà à quoi ça ressemble :
+        * Comme exemple, nous allons montrer comment exécuter quelques lignes de commandes sur cet environnement :
             
               (base) PS C:\Users\landr> cd .\pyomo1\  ............ pyomo1 est le repertoire où se trouve le fichier qui contient le code et peut s'appeller programme.py
                       
