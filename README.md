@@ -16,7 +16,7 @@ Pour exécuter les différents programmes du mémoire de recherche on a 2 possib
         
         * Enfin, un kernel, chargé d’exécuter le code contenu dans le notebook. Il s’agit d’un kernel Python ;
          
-        * Si toutes ces étapes sont remplies, alors vous cliquer sur le bouton "Exécuter".
+        * Si toutes ces étapes sont remplies, alors vous cliquez sur le bouton "Exécuter" qui se trouve dans application web appelée Jupyter.
          
             
  2) Soit on peut exécuter chaque modèle de façon individuelle de manière à vouloir mieux comprendre le fonctionnement du modèle :
