@@ -16,3 +16,12 @@ Pour exécuter les différents programmes du mémoire de recherche on a 2 possib
             * Enfin, un kernel, chargé d’exécuter le code contenu dans le notebook. Il peut s’agir d’un kernel Python ou d'un autre langage de programmation, en fonction               du langage que vous utilisez dans votre notebook ;
             
             * Si toutes ces étapes sont remplies, alors vous cliquer sur le bouton "Exécuter".
+            
+ 2) Soit on peut exécuter chaque modèle de façon individuelle de manière à vouloir mieux comprendre le fonctionnement du modèle :
+            
+            * Pour cela, nous allons utiliser un autre environnement de développement et d'exécution qui est "Anaconda Powershell Prompt (anaconda3)" ;
+            * Comme exemple, on va exécuter quelques lignes de commandes et voilà à quoi ça ressemble :
+            
+                      (base) PS C:\Users\landr> cd .\pyomo1\  ............ pyomo1 est le repertoire où se trouve le fichier qui contient le code et peut s'appeller                                                                                  programme.py
+                      
+                      (base) PS C:\Users\landr\pyomo1> pyomo solve --solver=cplex DEMO.modeleiLP_ASS6.py............pyomo solve --solver=cplex est la ligne de commande                                qui permet de compiler et d'exécuter le solver et il faut lui passer en paramètre le fichier programme DEMO.modeleiLP_ASS6.py pour                                        l'exécution du modèle.
