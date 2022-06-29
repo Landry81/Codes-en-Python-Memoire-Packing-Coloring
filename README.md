@@ -27,4 +27,5 @@ Pour exécuter les différents programmes du mémoire de recherche on a 2 possib
             
               (base) PS C:\Users\landr> cd .\pyomo1\  ............ pyomo1 est le repertoire où se trouve le fichier qui contient le code et peut s'appeller programme.py
                       
-              (base) PS C:\Users\landr\pyomo1> pyomo solve --solver=cplex DEMO.modeleiLP_ASS6.py............pyomo solve --solver=cplex est la ligne de commande qui permet de compiler et d'exécuter le solver et il faut lui passer en paramètre le fichier programme DEMO.modeleiLP_ASS6.py pour l'exécution du modèle.
+              (base) PS C:\Users\landr\pyomo1> pyomo solve --solver=cplex DEMO.modeleiLP_ASS6.py............pyomo solve --solver=cplex est la ligne de commande 
+              qui permet de compiler et d'exécuter le solver et il faut lui passer en paramètre le fichier programme DEMO.modeleiLP_ASS6.py pour l'exécution du modèle.
