@@ -10,9 +10,9 @@ Pour exécuter les différents programmes du mémoire de recherche on a 2 possib
 
         * Pour cela, il faudra installer l'environnement de développement en python qui est l'IDE Jupyter Notebook ;
          
-        * ensuite créer votre fichier programme avec l'extension .ipynb. Ce fichier contiendra votre code ainsi que l’output généré par ce code lors de son exécution ;
+        * Ensuite, il faudra créer votre fichier programme avec l'extension .ipynb. Ce fichier contiendra votre code ainsi que l’output généré par ce code lors de son exécution ;
         
-        * Ensuite on utilisera une application web, qui est chargée d’afficher les notebooks (possibilité de modifier le code) et permet à l’utilisateur d’interagir ;
+        * Ensuite, on utilisera une application web, qui est chargée d’afficher les notebooks (possibilité de modifier le code) et permet à l’utilisateur d’interagir ;
         
         * Enfin, un kernel, chargé d’exécuter le code contenu dans le notebook. Il peut s’agir d’un kernel Python ou d'un autre langage de programmation, en fonction du langage que vous utilisez dans votre notebook ;
          
