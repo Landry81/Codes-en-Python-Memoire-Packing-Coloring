@@ -14,7 +14,7 @@ Pour exécuter les différents programmes du mémoire de recherche on a 2 possib
         
         * Ensuite, on utilisera une application web, qui est chargée d’afficher les notebooks (possibilité de modifier le code) et permet à l’utilisateur d’interagir ;
         
-        * Enfin, un kernel, chargé d’exécuter le code contenu dans le notebook. Il peut s’agir d’un kernel Python ou d'un autre langage de programmation, en fonction du langage que vous utilisez dans votre notebook ;
+        * Enfin, un kernel, chargé d’exécuter le code contenu dans le notebook. Il peut s’agir d’un kernel Python ou d'un autre langage de programmation ;
          
         * Si toutes ces étapes sont remplies, alors vous cliquer sur le bouton "Exécuter".
          
